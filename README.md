@@ -1,7 +1,7 @@
 # Kubeflow Trainer
 
 [![Build Status](https://github.com/kubeflow/training-operator/actions/workflows/test-go.yaml/badge.svg?branch=master)](https://github.com/kubeflow/training-operator/actions/workflows/test-go.yaml?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/kubeflow/training-operator/badge.svg?branch=master)](https://coveralls.io/github/kubeflow/training-operator?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/kubeflow/trainer/badge.svg)](https://coveralls.io/github/kubeflow/trainer)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubeflow/training-operator)](https://goreportcard.com/report/github.com/kubeflow/training-operator)
 
 <h1 align="center">
